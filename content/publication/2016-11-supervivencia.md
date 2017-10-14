@@ -13,7 +13,7 @@ title = "Supervivencia de los partidos políticos, diputados y alcaldes en Guate
 url_code = ""
 url_dataset = ""
 url_pdf = "pdf/2016-supervivencia.pdf"
-url_project = ""
+url_project = "project/party-data/"
 url_slides = ""
 url_video = ""
 

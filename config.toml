@@ -211,6 +211,15 @@ defaultContentLanguageInSubdir = false
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
 
-# Configure the English version of the website.
+# Configure the Spanish version of the website.
 [Languages.es]
   languageCode = "es-gt"
+  publication_types = [
+    'Sin categoía',  # 0
+    'Conferencia',  # 1
+    'Revista',  # 2
+    'Borrador',  # 3
+    'Informe técnico',  # 4
+    'Libro',  # 5
+    'Capítulo de libro'  # 6
+  ]
