@@ -10,7 +10,7 @@ tags: []
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-La siguiente gráfica interactiva muestra el porcentaje de guatemaltecos que respondieron con cada opción a cada pregunta realizada por el Barómetro de las Américas de 2017. Es posible filtrar los grupos de guatemaltecos según características demográficas como: género, población urbana o rural, etnicidad o grupo etáreo. 
+La siguiente gráfica interactiva muestra el porcentaje de guatemaltecos que respondieron con cada opción a cada pregunta seleccionada de las realizadas por el Barómetro de las Américas de 2017. Es posible filtrar los grupos de guatemaltecos según características demográficas como: género, población urbana o rural, etnicidad o grupo etáreo. 
 
 A diferencia del discurso público, el cuál está mediado por relaciones de poder y sesgos de selección, que hacen ciertos discursos más visibles que otros, las encuestas representativas de la población dan la misma atención a todos los ciudadanos por igual. Por ello, encuestas como las elaboradas por LAPOP sirven de complemento al análisis que busca entender qué opinan los guatemaltecos sobre diversos temas. Ahora bien, aunque las encuestas permiten observar que tan común o inusual es una opinión en la población, por si mismas, estas no ofrecen información sobre los argumentos, experiencias e interpretaciones que llevan a una persona a sostener dichas opiniones. 
 
