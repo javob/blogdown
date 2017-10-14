@@ -12,7 +12,7 @@ widget = "talks"
 weight = 40
 
 # Number of talks to list.
-count = 10
+count = 3
 
 # List format.
 #   0 = Simple

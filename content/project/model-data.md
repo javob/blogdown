@@ -3,17 +3,17 @@
 date = "2017-10-01"
 
 # Project title.
-title = "Elecciones"
+title = "Modelos matemáticos"
 
 # Project summary to display on homepage.
-summary = "Sitematización y visualización de datos electorales."
+summary = "Modelos matemáticos para analizar datos sobre política."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "projects/electoral-data-ed.png"
+image_preview = "projects/model-data-ed.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["data"]
+tags = ["other"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -28,4 +28,4 @@ math = true
 
 +++
 
-Este proyecto busca sistematizar y visualizar datos sobre elcciones.
+Este proyecto busca desarrollar y evaluar modelos matemáticos para analizar datos sobre política.

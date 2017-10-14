@@ -3,17 +3,17 @@
 date = "2017-10-01"
 
 # Project title.
-title = "Datos legislativos"
+title = "Organismo Legislativo"
 
 # Project summary to display on homepage.
-summary = "Sitematización y visualización de datos legislativos."
+summary = "Sitematización y visualización de datos sobre el Organismo Legislativo."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "projects/datoslegislativos.png"
+image_preview = "projects/legislative-data-ed.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["other"]
+tags = ["data"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -28,4 +28,4 @@ math = true
 
 +++
 
-Este proyecto busca sistematizar y visualizar datos sobre el Congreso de la República.
+Este proyecto busca sistematizar y visualizar datos sobre el Organismo Legislativo.

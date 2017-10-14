@@ -3,13 +3,13 @@
 date = "2017-10-01"
 
 # Project title.
-title = "Elecciones"
+title = "Opinión pública"
 
 # Project summary to display on homepage.
-summary = "Sitematización y visualización de datos electorales."
+summary = "Sitematización y visualización de datos sobre opinión pública."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "projects/electoral-data-ed.png"
+image_preview = "projects/opinion-data-ed.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -28,4 +28,4 @@ math = true
 
 +++
 
-Este proyecto busca sistematizar y visualizar datos sobre elcciones.
+Este proyecto busca sistematizar y visualizar datos sobre opinión pública.
