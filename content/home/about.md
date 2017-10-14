@@ -35,4 +35,4 @@ weight = 50
  
 +++
 
-Soy profesor e investigador de ciencia política con estudios multidisciplinarios y experiencia en consultoría. Me interesa el estudio de la opinión pública y el fortalecimiento de instituciones que promuevan legitimidad política e independiencia judicial. Actualmente, imparto clases sobre gobernanza, diseño de investigaciones y diversos métodos cuantitativos, además de realizar investigaciones sobre opinión pública. 
+Soy profesor e investigador de ciencia política con estudios multidisciplinarios y experiencia en consultoría. Me interesa el estudio de la opinión pública y el fortalecimiento de instituciones que promuevan legitimidad política e independiencia judicial. Actualmente imparto clases sobre gobernanza, diseño de investigaciones y diversos métodos cuantitativos, además de realizar investigaciones sobre opinión pública. 
