@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Cuanta Política</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Cuanta Política</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-gt</language>
+    <copyright>&amp;copy; 2017 Javier Brolo</copyright>
+    <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Elecciones</title>
+      <link>/project/electoral-data/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/electoral-data/</guid>
+      <description>Este proyecto busca sistematizar y visualizar datos sobre elcciones.</description>
+    </item>
+    
+    <item>
+      <title>Modelos matemáticos</title>
+      <link>/project/model-data/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/model-data/</guid>
+      <description>Este proyecto busca desarrollar y evaluar modelos matemáticos para analizar datos sobre política.</description>
+    </item>
+    
+    <item>
+      <title>Opinión pública</title>
+      <link>/project/opinion-data/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/opinion-data/</guid>
+      <description>Este proyecto busca sistematizar y visualizar datos sobre opinión pública.</description>
+    </item>
+    
+    <item>
+      <title>Organismo Legislativo</title>
+      <link>/project/legislative-data/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/legislative-data/</guid>
+      <description>Este proyecto busca sistematizar y visualizar datos sobre el Organismo Legislativo.</description>
+    </item>
+    
+    <item>
+      <title>Partidos políticos</title>
+      <link>/project/party-data/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/party-data/</guid>
+      <description>Este proyecto busca sistematizar y visualizar datos sobre partidos políticos.</description>
+    </item>
+    
+    <item>
+      <title>Reformas institucionales</title>
+      <link>/project/institution-reform/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/project/institution-reform/</guid>
+      <description>Este proyecto busca analizar reformas que fortalezcan instituciones que promueven legitimidad política e independencia judicial.</description>
+    </item>
+    
+  </channel>
+</rss>
